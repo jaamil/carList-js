@@ -1,0 +1,34 @@
+/* 
+.title{
+    font-size: 70px;  
+    
+}
+
+.hero-text{
+    margin-top: 70px;
+}
+.hero-part{
+    height: 70vh;
+}
+.img-fluid{
+    margin-top: 0px;
+}
+
+
+@media (min-width: 576px) { 
+    .title{
+        font-size: 30px;
+    }
+    .btn{
+        font-size: 20px;
+    }
+    .hero-text{
+        margin-top: 10px;
+    }
+    .hero-part{
+        height: 50vh;
+    }
+    .img-fluid{
+        margin-top: 150px;
+    }
+} */
